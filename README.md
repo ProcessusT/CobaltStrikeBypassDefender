@@ -1,6 +1,7 @@
 # CobaltStrikeBypassDefender
+<br /><br />
 
-<h1>A launcher to load a DLL with xored cobalt strike shellcode executed in memory through process hollowing technique</h1>
+<h3>A launcher to load a DLL with xored cobalt strike shellcode executed in memory through process hollowing technique</h3>
 
 
 <br /><br />
@@ -8,7 +9,7 @@
 <br />
 
 <p align="center">
-    My youtube video on this repo : <br />
+    My youtube video on this repo : <br /><br />
     <a href="https://youtu.be/CHk2XzFKwNc" align="center" width="100%;">
        <img src="https://github.com/Processus-Thief/CobaltStrikeBypassDefender/raw/main/.assets/minia.jpg" width="80%;">
     </a>
@@ -44,13 +45,13 @@ C:\msys64\mingw64\bin\x86_64-w64-mingw32-c++.exe -o launcher.exe launcher.cpp
 rundll32 shellcode.dll, RunThatShit
 ```
 7. Enjoy :)
-
+<br /><br />
 
 
 
 -----------------------------------------------------------------------------------
 
-
+<br /><br />
 
 
 <p align="center">
